@@ -1,1 +1,0 @@
-# HuntingForStupid.GitHub.io
