@@ -132,12 +132,12 @@ to:
 GET /v1/admin/flag HTTP/1.1
 
 {
-    "flag": "bug{0xePBUv175SMnexNCfymygGHwCoUEIqi}"
+    "flag": "bug{}"
 }
 
 
 {
-    "flag": "bug{sDlzhtTHMufXOT7QpGQPaumfWjQRDPMI}"
+    "flag": "bug{}"
 }
 
 ---)
