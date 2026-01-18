@@ -1,4 +1,4 @@
-# icanhaspii-CTF CheatSheet ## These are my CTF Hacks! I hope you enjoy!
+# BugForge-CTF CheatSheet ## These are my CTF Hacks! I hope you enjoy!
 [Details
 
 Details
@@ -118,7 +118,7 @@ https://github.com/jhaddix/pentest-bookmarks/blob/master/wiki/BookmarksList.wiki
 
 12. Now, I copied to result of that newly encoded snippet and went back over to my Caido "Replay" tab and pasted that in, swapping out the existing Authorization Token with my newly created one: 
 
-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJUZXN0ZXIxIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzY4NTIwNTA5fQ.HwzftLkURysyFN7JHrlQzExz5aHy4r8I5rNWyImBzHs
+ey...
 
 13. Next, still in the "Replay" tab, I changed the first line as below, and hit the red "Send" button and got the flag!!!
 
