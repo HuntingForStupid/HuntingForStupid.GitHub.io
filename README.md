@@ -1,6 +1,6 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-# icanhaspii-CTF CheatSheet
-## These are my CTF Hacks!  I hope you enjoy!
+# icanhaspii-BugForge WriteUps
+## These are my BugForge WriteUps!  I hope you enjoy!
 <details markdown>
   <br>
   <summary>[Linux Analysis Commands]</summary>
