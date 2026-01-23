@@ -1,6 +1,8 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 # icanhaspii-BugForge WriteUps
 ## These are my BugForge WriteUps!  I hope you enjoy!
+
+!--
 <details markdown>
   <br>
   <summary>[Linux Analysis Commands]</summary>
@@ -1075,7 +1077,7 @@ Multitap ABC should not be confused with T9 predictive text. For example,'DCODE'
 </details>
 <br>
 
-
+!--
 
 
 
